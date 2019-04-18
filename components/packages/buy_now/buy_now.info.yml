@@ -1,0 +1,11 @@
+name: Buy now
+machine_name: acf_blocks_buy_now
+type: pdb
+description: 'Buy now block'
+core: '8.x'
+package: ACF
+module_status: active
+presentation: react-block
+add_js:
+  footer:
+    'buy_now.bundle.js': {}
