@@ -1,6 +1,6 @@
 # BC ACF Blocks
 
-This provides 4 React blocks to the system. They all use Redux for state management. It is an adaptation of the origin ACF Blocks package from Acquia designed to work with the BigCommerce ACF module.
+This provides 4 React blocks to the system. They all use Redux for state management. It is an adaptation of the origin ACF Blocks package from Acquia designed to work with the [BigCommerce ACF module](https://github.com/thirdandgrove/acf_bc).
 
 This relies on the `react_block` module, which in turn is an extension of the `pdb` module.
 
