@@ -4,7 +4,7 @@ This provides 4 React blocks to the system. They all use Redux for state managem
 
 This relies on the `react_block` module, which in turn is an extension of the `pdb` module.
 
-For the **Buy Now** component to work you need to add your BigCommerce instance base URL to the 'constants.js' file.
+For the **Buy Now** component to work you need to add your BigCommerce instance base URL to the `components/packages/core/constants.js` file.
 
 These components are managed and build using webpack, so each component is an individual item. This makes it more robust and reliable, but it also adds potential bloat to the page load.
 
